@@ -1,0 +1,8 @@
+---
+httpd_port: "80"
+domain_name: "abc.com"
+
+httpd_user: "apache"
+httpd_group: "apache"
+
+mysql_root_pass: "mysqlroot@123"
