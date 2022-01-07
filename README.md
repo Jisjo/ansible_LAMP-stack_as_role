@@ -1,5 +1,5 @@
-Role Name
-=========
+Ansible LAMP Stack As Role
+==========================
 
 A brief description of the role goes here.
 
